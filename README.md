@@ -48,3 +48,6 @@ These are operational estimates based on day-to-day use rather than formally log
 ## Lessons Learned
 
 The biggest improvement in this project didn't come from adding more verification steps — it came from removing one. Denomination Detail was a reasonable idea on paper, but in practice its manual entry introduced more risk than it caught, while the Transaction Log already provided accurate, lower-effort reconciliation against Square POS. Any future addition to this system needs to justify its time cost the same way Denomination Detail ultimately couldn't.
+
+## Link to live dashboard
+https://public.tableau.com/views/CashManagementAnalysis2025-2026/SessionReconciliationOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
